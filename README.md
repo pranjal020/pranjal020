@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @pranjal020
 - 👀 I’m interested in Software Enginnering
 - 🌱 I’m currently learning Electronics and Communication Engineering .
-- 💞️ I’m looking to collaborate on Software Company
+- 💞️ I’m looking to collaborate With Software Company
 - 📫 How to reach me - through email I`D
                        (pranjall.20.beec@acharya.ac.in/pm0741584@gmail.com)
 <!---
